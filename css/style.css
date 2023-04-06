@@ -1,11 +1,11 @@
 h1{
    background-color: aqua; 
 }
-first{
+.first{
     background-color: blue;
 }
 h2{
-    background-color: aquamarine;
+    background-color: rgb(11, 70, 51);
 }
 .second{
     background-color: blueviolet;
